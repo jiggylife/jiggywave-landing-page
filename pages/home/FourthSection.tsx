@@ -2,7 +2,7 @@ import Image from "next/image";
 import React from "react";
 import styled, { useTheme } from "styled-components";
 
-import PhoneImage from "assets/images/last-section-phone.png";
+import InterestImage from "assets/images/interest.png";
 import Text from "components/Text";
 import useWindowSize from "utils/hooks/useWindowSize";
 import { ThemeType } from "constants/theme";
@@ -18,7 +18,7 @@ const FourthSection = () => {
 		<Container>
 			<div className="content">
 				<div className="content__left">
-					<Image src={PhoneImage} alt="" className="image" />
+					<Image src={InterestImage} alt="" className="image" />
 				</div>
 
 				<div className="content__right">
