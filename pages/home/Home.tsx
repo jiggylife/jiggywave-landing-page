@@ -9,7 +9,7 @@ import ThirdSection from "./ThirdSection";
 const Home = () => {
 	return (
 		<>
-        <title>Jiggywave — Savings account for GenZ</title>
+        <title>Jiggywave — Save and earn easily</title>
 			<FirstSection />
 			<SecondSection />
 			<ThirdSection />

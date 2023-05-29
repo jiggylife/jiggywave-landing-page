@@ -53,7 +53,7 @@ const FirstSection = () => {
 			/>
 
 			<Text
-				text="Jiggywave is a new wave made for GenZ to save and invest easily without any loss. Registration is easy, wallet topup is smooth and you get interest on your savings everyday."
+				text="Jiggywave is the new money wave made for everyone to save and invest easily. Registration is super easy, wallet topup and withdrawals is smooth and you get interest on your savings everyday."
 				type="body"
 				className={`text__body--${
 					width > TabletScreenWidth ? "medium" : "xs"

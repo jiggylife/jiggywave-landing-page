@@ -41,7 +41,7 @@ function Footer() {
 
 						<Text
 							type="body"
-							text="Jiggywave is an high interest savings account for GenZ. Keep is wavy and enjoy the vibes!"
+							text="Jiggywave is an high interest savings account for savings and investments. Financial services are provided by Flutterwave."
 							className={`text__body--${
 								width > TabletScreenWidth ? "large" : "small"
 							} `}
@@ -83,7 +83,7 @@ function Footer() {
 								/>
 							</a>
 
-							<a href="tel:+2347044666343">
+							<a href="https://wa.me/+2349160317431">
 								<Text
 									className={`text__body--${
 										width > TabletScreenWidth
@@ -91,7 +91,7 @@ function Footer() {
 											: "medium"
 									}`}
 									type="body"
-									text="+234 704 466 6343"
+									text="+234 916 031 7431"
 								/>
 							</a>
 
