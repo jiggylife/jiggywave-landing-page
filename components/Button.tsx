@@ -45,7 +45,7 @@ export const StoreButton = ({ store, footer, ...props }: StoreButtonProps) => {
 	const { width } = useWindowSize();
 	const isMobile = width <= MobileScreenWidth;
 	const isSmallMobile = width <= 375;
-	const link = store === "appstore" ? "#" : "#";
+	const link = store === "appstore" ? "#" : "https://play.google.com/store/apps/details?id=tnf.hinance";
 
 	return (
 		<a rel="noreferrer" target="_blank" href={link} {...props}>

@@ -53,7 +53,7 @@ const FirstSection = () => {
 			/>
 
 			<Text
-				text="Jiggywave is the new money wave made for everyone to save and invest easily. Registration is super easy, wallet topup and withdrawals is smooth and you get interest on your savings everyday."
+				text="Hinance is the new transparent and straightforward platform for everyone who want to save and invest and also earn money daily."
 				type="body"
 				className={`text__body--${
 					width > TabletScreenWidth ? "medium" : "xs"

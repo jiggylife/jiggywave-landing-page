@@ -24,7 +24,7 @@ const ThirdSection = () => {
 				<div className="content__left">
 					<Text
 						type="heading"
-						text="Jiggywave"
+						text="Hinance"
 						className={`text__heading--${
 							width > TabletScreenWidth ? "medium" : "xxs"
 						}`}
@@ -43,7 +43,7 @@ const ThirdSection = () => {
 
 					<Text
 						type="body"
-						text="Sadly yes... But we are different we promise, Jiggywave is that beautiful and easy to use digital wallet that gives you daily interest between 20% to 30% per month. We do everything you want your bank to do and more while still giving you a beautiful mobile application."
+						text="Sadly yes... But we are different we promise, Hinance is that beautiful and easy to use digital wallet that gives you daily interest between 20% to 30% per month. We do everything you want your bank to do and more while still giving you a beautiful mobile application."
 						className={`text__body--${
 							width > TabletScreenWidth ? "xl" : "small"
 						}`}

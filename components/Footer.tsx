@@ -41,7 +41,7 @@ function Footer() {
 
 						<Text
 							type="body"
-							text="Jiggywave is an high interest savings account for savings and investments. Financial services are provided by Flutterwave."
+							text="Hinance is an high interest savings account for savings and investments. Available on Android."
 							className={`text__body--${
 								width > TabletScreenWidth ? "large" : "small"
 							} `}
@@ -71,10 +71,10 @@ function Footer() {
 								color={headingPrimary}
 							/>
 
-							<a href="mailto:connect@jiggywave.com">
+							<a href="mailto:compliance@hinance.com">
 								<Text
 									type="body"
-									text="connect@jiggywave.com"
+									text="complaince@hinance.com"
 									className={`text__body--${
 										width > TabletScreenWidth
 											? "xl"
@@ -91,7 +91,7 @@ function Footer() {
 											: "medium"
 									}`}
 									type="body"
-									text="+234 916 031 7431"
+									text="WhatsApp +234 916 031 7431"
 								/>
 							</a>
 
@@ -100,7 +100,7 @@ function Footer() {
 									width > TabletScreenWidth ? "xl" : "medium"
 								}`}
 								type="body"
-								text="Lagos, Nigeria"
+								text="VI Lagos, Nigeria"
 							/>
 						</div>
 
@@ -114,7 +114,7 @@ function Footer() {
 								color={headingPrimary}
 							/>
 
-							<Link href="https://jiggylife.notion.site/Privacy-Policy-4d4e5ae533fb4b03ba3956cc92fd770b">
+							<Link href="https://hinance.notion.site/Hinance-Privacy-Policy-76f5c8ef5a6b424db5cc09f774ad4d74">
 								<a>
 									<Text
 										className={`text__body--${
@@ -128,7 +128,7 @@ function Footer() {
 								</a>
 							</Link>
 
-							<Link href="https://jiggylife.notion.site/Terms-and-Conditions-a9436842a19a45f8a1ef5c03b6c51bf1">
+							<Link href="https://hinance.notion.site/Hinance-Privacy-Policy-76f5c8ef5a6b424db5cc09f774ad4d74">
 								<a>
 									<Text
 										className={`text__body--${
@@ -155,7 +155,7 @@ function Footer() {
 
 					<Text
 						type="body"
-						text={`©${new Date().getFullYear()} Jiggyland Limited - RC 6921509 ｜ All right reserved`}
+						text={`©${new Date().getFullYear()} Hinance Limited - RC 6921087 ｜ All right reserved`}
 						className={`text__body--${
 							width > TabletScreenWidth ? "large" : "xs"
 						}`}
