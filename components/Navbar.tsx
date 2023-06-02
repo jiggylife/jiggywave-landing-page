@@ -26,7 +26,7 @@ const Navbar = () => {
 					</Link>
 				</div>
 
-				<Button link href="#" label="Get the app" />
+				<Button link href="https://play.google.com/store/apps/details?id=tnf.hinance" label="Get the app" />
 			</div>
 		</Nav>
 	);
