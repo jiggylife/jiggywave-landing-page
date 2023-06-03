@@ -48,7 +48,7 @@ function Footer() {
 						/>
 
 						<div className="links-box">
-							<Link href="https://twitter.com/jiggylifeHQ">
+							<Link href="https://twitter.com/hinanceHQ">
 								<a target="_blank">
 									<TwitterIcon />
 								</a>
