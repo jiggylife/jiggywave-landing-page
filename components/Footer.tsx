@@ -53,7 +53,7 @@ function Footer() {
 									<TwitterIcon />
 								</a>
 							</Link>
-							<Link href="https://instagram.com/jiggylifeHQ">
+							<Link href="https://instagram.com/hinance.xyz">
 								<a target="_blank">
 									<InstagramIcon />
 								</a>
