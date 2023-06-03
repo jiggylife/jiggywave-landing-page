@@ -41,7 +41,7 @@ function Footer() {
 
 						<Text
 							type="body"
-							text="Hinance is an high interest savings account for savings and investments. Available on Android."
+							text="Hinance is an high interest savings account for savings and investments. Available only on Android."
 							className={`text__body--${
 								width > TabletScreenWidth ? "large" : "small"
 							} `}
@@ -71,10 +71,10 @@ function Footer() {
 								color={headingPrimary}
 							/>
 
-							<a href="mailto:compliance@hinance.com">
+							<a href="mailto:compliance@hinance.xyz">
 								<Text
 									type="body"
-									text="complaince@hinance.com"
+									text="complaince@hinance.xyz"
 									className={`text__body--${
 										width > TabletScreenWidth
 											? "xl"

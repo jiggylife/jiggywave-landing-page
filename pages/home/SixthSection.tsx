@@ -33,7 +33,7 @@ const FourthSection = () => {
 
 					<Text
 						type="body"
-						text="We do exactly what banks do with your money. We loan it out to big firms and businesses then get big interest. We share this interest depending on our financial advisors. We DO NOT gamble with your money to provide that much interest so you can't lose your money!"
+						text="We do exactly what banks do with your money. We loan it out to big firms and businesses then get big interest. We share this interest depending on our financial advisors. We DO NOT gamble with your money to provide you interest which means you can't lose your money!"
 						className={`text__body--${
 							width > TabletScreenWidth ? "xl" : "small"
 						}`}
