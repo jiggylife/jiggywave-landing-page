@@ -155,7 +155,7 @@ function Footer() {
 
 					<Text
 						type="body"
-						text={`©${new Date().getFullYear()} Hinance Limited - RC 6921087 ｜ All right reserved`}
+						text={`©${new Date().getFullYear()} Jiggy Limited - RC 1820163 ｜ All right reserved`}
 						className={`text__body--${
 							width > TabletScreenWidth ? "large" : "xs"
 						}`}
